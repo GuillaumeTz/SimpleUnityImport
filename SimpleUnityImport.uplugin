@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Simple Unity Import Plugin",
+	"Description": "Import some files from unity format to UE",
+	"Category": "Importers",
+	"CreatedBy": "Guillaume Tazé",
+	"CreatedByURL": "https://github.com/GuillaumeTz/SimpleUnityImport",
+	"DocsURL": "https://github.com/GuillaumeTz/SimpleUnityImport",
+	"MarketplaceURL": "https://github.com/GuillaumeTz/SimpleUnityImport",
+	"SupportURL": "https://github.com/GuillaumeTz/SimpleUnityImport",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SimpleUnityImport",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
